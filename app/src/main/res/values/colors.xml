@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ocean_blue">#1565C0</color>
+    <color name="ocean_blue_light">#E3F2FD</color>
+    <color name="ocean_blue_deep">#0D47A1</color>
+    <color name="ocean_bg">#F0F8FF</color>
+
+    <color name="budget_green">#4CAF50</color>
+    <color name="medium_orange">#FF9800</color>
+    <color name="premium_purple">#9C27B0</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_text">#757575</color>
+    <color name="gray_light">#F5F5F5</color>
+</resources>
