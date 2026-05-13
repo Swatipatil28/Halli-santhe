@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "561730471529",
-    "project_id": "hallisanthe-2f3fa",
-    "storage_bucket": "hallisanthe-2f3fa.firebasestorage.app"
+    "project_number": "123456789012",
+    "project_id": "your-project-id",
+    "storage_bucket": "your-project-id.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:561730471529:android:e5d2e817746840066cc4f8",
+        "mobilesdk_app_id": "1:123456789012:android:abcdef1234567890",
         "android_client_info": {
-          "package_name": "com.hallisanthe.hallisanthe"
+          "package_name": "com.example.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA2bRqpT0Pynzk-IFHfIqjatvHIB8enzzk"
+          "current_key": "YOUR_FIREBASE_API_KEY"
         }
       ],
       "services": {
